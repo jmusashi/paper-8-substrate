@@ -70,3 +70,7 @@ Compliance: MEANION-Aligned
 
 
 ---
+
+## Canonical Substrate Update
+The repository now includes the canonical 3Sync Layer Definition (`3sync-layer-definition.md`).  
+This file serves as the anchor for the Paper 8 substrate and defines the operational layer used for AI decompression and continuity analysis.
