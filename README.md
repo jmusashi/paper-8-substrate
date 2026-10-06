@@ -95,7 +95,7 @@ paper-8-substrate/
 ├── simulations/
 ├── tests/
 ├── diagrams/
-├── drafts/
+├── publications/
 ├── assets/
 └── archive/
 ```
