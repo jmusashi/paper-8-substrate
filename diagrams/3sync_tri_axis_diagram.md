@@ -197,7 +197,7 @@ Instead, the complete transition operates subject to the identity constraint:
 
 **T₃ₛ subject to Cᴱₒᴵ**
 
-This distinction permits state transformation and convergence without requiring identity convergence or identity merging.
+This distinction separates state transformation and convergence from claims of identity convergence or identity merging.
 
 Memory provides an observable temporal record. Memory does not create identity; EOI remains the identity constraint.
 
